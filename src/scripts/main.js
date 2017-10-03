@@ -1,5 +1,7 @@
-// Import styles (automatically injected into <head>).
+﻿// Import styles (automatically injected into <head>).
 import '../styles/main.css';
+
+//Adding Karthic's changes
 
 // Import a couple modules for testing.
 import { sayHelloTo } from './modules/mod1';
